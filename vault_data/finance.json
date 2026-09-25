@@ -1,1 +1,8 @@
-[]
+{
+  "currency": "USD","NGN","GBP",
+  "payment_channels": ["card", "crypto", "bank_transfer"],
+  "accounts": [],
+  "audit_log": [
+    {"ts": "2026-01-01T00:00:00Z", "event": "FINANCE_LEDGER_INIT", "channel": null, "amount": 0}
+  ]
+}
