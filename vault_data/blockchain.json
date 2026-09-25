@@ -1,1 +1,14 @@
-[]
+{
+  "chain_name": "ZHONNEX_MULTI_TENANT_LEDGER",
+  "seal": "ZHONNEX_SEAL_GEN_I",
+  "blocks": [
+    {
+      "index": 0,
+      "timestamp": "2026-01-01T00:00:00Z",
+      "tenant": "SYSTEM",
+      "action": "GENESIS_BLOCK",
+      "prev_hash": "0",
+      "hash": "seed"
+    }
+  ]
+}
